@@ -92,4 +92,6148 @@ pixiv.net
 comicabc.com
 c.xf.free.hr
 yecaoyun.com
+==================================================
+Host Name         : 172.64.34.0
+IP Address        : 172.64.34.0
+Reply IP Address  : 172.64.34.0
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 347.802
+Last Ping TTL     : 53
+Average Ping Time : 342.008
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 308.677
+Maximum Ping Time : 368.635
+Order             : 1
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : adelaide.ns.cloudflare.com
+IP Address        : 172.64.34.1
+Reply IP Address  : 172.64.34.1
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 181.488
+Last Ping TTL     : 53
+Average Ping Time : 179.734
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 174.828
+Maximum Ping Time : 183.719
+Order             : 2
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ximena.ns.cloudflare.com
+IP Address        : 172.64.34.10
+Reply IP Address  : 172.64.34.10
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 189.928
+Last Ping TTL     : 53
+Average Ping Time : 189.803
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 189.048
+Maximum Ping Time : 191.021
+Order             : 11
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : opal.ns.cloudflare.com
+IP Address        : 172.64.34.100
+Reply IP Address  : 172.64.34.100
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 379.126
+Last Ping TTL     : 53
+Average Ping Time : 367.802
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 336.369
+Maximum Ping Time : 402.129
+Order             : 101
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : nataly.ns.cloudflare.com
+IP Address        : 172.64.34.101
+Reply IP Address  : 172.64.34.101
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 235.935
+Last Ping TTL     : 53
+Average Ping Time : 223.513
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 199.405
+Maximum Ping Time : 235.935
+Order             : 102
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sydney.ns.cloudflare.com
+IP Address        : 172.64.34.102
+Reply IP Address  : 172.64.34.102
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 389.174
+Last Ping TTL     : 53
+Average Ping Time : 387.886
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 366.595
+Maximum Ping Time : 403.890
+Order             : 103
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : dayana.ns.cloudflare.com
+IP Address        : 172.64.34.103
+Reply IP Address  : 172.64.34.103
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 182.867
+Last Ping TTL     : 53
+Average Ping Time : 174.882
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 169.054
+Maximum Ping Time : 182.867
+Order             : 104
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : isabel.ns.cloudflare.com
+IP Address        : 172.64.34.104
+Reply IP Address  : 172.64.34.104
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 401.770
+Last Ping TTL     : 53
+Average Ping Time : 398.200
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 379.363
+Maximum Ping Time : 412.626
+Order             : 105
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : julissa.ns.cloudflare.com
+IP Address        : 172.64.34.105
+Reply IP Address  : 172.64.34.105
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 393.852
+Last Ping TTL     : 53
+Average Ping Time : 390.803
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 371.575
+Maximum Ping Time : 405.181
+Order             : 106
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : stevie.ns.cloudflare.com
+IP Address        : 172.64.34.106
+Reply IP Address  : 172.64.34.106
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:07
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 337.703
+Last Ping TTL     : 53
+Average Ping Time : 321.807
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:07
+Minimum Ping Time : 263.980
+Maximum Ping Time : 363.739
+Order             : 107
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : margaret.ns.cloudflare.com
+IP Address        : 172.64.34.107
+Reply IP Address  : 172.64.34.107
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.083
+Last Ping TTL     : 53
+Average Ping Time : 170.994
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 170.446
+Maximum Ping Time : 171.270
+Order             : 108
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : serenity.ns.cloudflare.com
+IP Address        : 172.64.34.108
+Reply IP Address  : 172.64.34.108
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.021
+Last Ping TTL     : 53
+Average Ping Time : 171.604
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 170.377
+Maximum Ping Time : 173.732
+Order             : 109
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : aspen.ns.cloudflare.com
+IP Address        : 172.64.34.109
+Reply IP Address  : 172.64.34.109
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:39
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 391.135
+Last Ping TTL     : 53
+Average Ping Time : 384.069
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:39
+Minimum Ping Time : 368.542
+Maximum Ping Time : 392.532
+Order             : 110
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : rayne.ns.cloudflare.com
+IP Address        : 172.64.34.11
+Reply IP Address  : 172.64.34.11
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 378.801
+Last Ping TTL     : 53
+Average Ping Time : 373.908
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 357.664
+Maximum Ping Time : 382.553
+Order             : 12
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : aurora.ns.cloudflare.com
+IP Address        : 172.64.34.110
+Reply IP Address  : 172.64.34.110
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 182.608
+Last Ping TTL     : 53
+Average Ping Time : 175.722
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 170.834
+Maximum Ping Time : 182.608
+Order             : 111
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : deborah.ns.cloudflare.com
+IP Address        : 172.64.34.111
+Reply IP Address  : 172.64.34.111
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 177.778
+Last Ping TTL     : 53
+Average Ping Time : 177.783
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 177.119
+Maximum Ping Time : 178.314
+Order             : 112
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : stephane.ns.cloudflare.com
+IP Address        : 172.64.34.112
+Reply IP Address  : 172.64.34.112
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 179.274
+Last Ping TTL     : 53
+Average Ping Time : 187.875
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 179.274
+Maximum Ping Time : 200.023
+Order             : 113
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : paris.ns.cloudflare.com
+IP Address        : 172.64.34.113
+Reply IP Address  : 172.64.34.113
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:07
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 193.479
+Last Ping TTL     : 53
+Average Ping Time : 183.570
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:07
+Minimum Ping Time : 177.200
+Maximum Ping Time : 193.479
+Order             : 114
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : marissa.ns.cloudflare.com
+IP Address        : 172.64.34.114
+Reply IP Address  : 172.64.34.114
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 378.792
+Last Ping TTL     : 53
+Average Ping Time : 367.500
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 337.982
+Maximum Ping Time : 400.516
+Order             : 115
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : emerie.ns.cloudflare.com
+IP Address        : 172.64.34.115
+Reply IP Address  : 172.64.34.115
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:17:36
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 186.794
+Last Ping TTL     : 53
+Average Ping Time : 185.955
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:17:36
+Minimum Ping Time : 184.665
+Maximum Ping Time : 186.794
+Order             : 116
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : treasure.ns.cloudflare.com
+IP Address        : 172.64.34.116
+Reply IP Address  : 172.64.34.116
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 182.382
+Last Ping TTL     : 53
+Average Ping Time : 217.029
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 182.382
+Maximum Ping Time : 263.987
+Order             : 117
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : natasha.ns.cloudflare.com
+IP Address        : 172.64.34.117
+Reply IP Address  : 172.64.34.117
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:07
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 174.593
+Last Ping TTL     : 53
+Average Ping Time : 173.578
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:07
+Minimum Ping Time : 171.285
+Maximum Ping Time : 174.855
+Order             : 118
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : maleah.ns.cloudflare.com
+IP Address        : 172.64.34.118
+Reply IP Address  : 172.64.34.118
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 195.170
+Last Ping TTL     : 53
+Average Ping Time : 209.726
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 195.170
+Maximum Ping Time : 238.069
+Order             : 119
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : love.ns.cloudflare.com
+IP Address        : 172.64.34.119
+Reply IP Address  : 172.64.34.119
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 183.957
+Last Ping TTL     : 53
+Average Ping Time : 175.620
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.188
+Maximum Ping Time : 183.957
+Order             : 120
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : gigi.ns.cloudflare.com
+IP Address        : 172.64.34.12
+Reply IP Address  : 172.64.34.12
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 381.039
+Last Ping TTL     : 53
+Average Ping Time : 386.167
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 375.759
+Maximum Ping Time : 394.777
+Order             : 13
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : luciane.ns.cloudflare.com
+IP Address        : 172.64.34.120
+Reply IP Address  : 172.64.34.120
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 387.776
+Last Ping TTL     : 53
+Average Ping Time : 385.521
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 366.305
+Maximum Ping Time : 399.304
+Order             : 121
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : blair.ns.cloudflare.com
+IP Address        : 172.64.34.121
+Reply IP Address  : 172.64.34.121
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 168.542
+Last Ping TTL     : 53
+Average Ping Time : 219.783
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 167.872
+Maximum Ping Time : 372.517
+Order             : 122
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : laila.ns.cloudflare.com
+IP Address        : 172.64.34.122
+Reply IP Address  : 172.64.34.122
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 178.978
+Last Ping TTL     : 53
+Average Ping Time : 178.726
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 177.118
+Maximum Ping Time : 179.911
+Order             : 123
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : clarissa.ns.cloudflare.com
+IP Address        : 172.64.34.123
+Reply IP Address  : 172.64.34.123
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:17:36
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 361.256
+Last Ping TTL     : 53
+Average Ping Time : 375.041
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:17:36
+Minimum Ping Time : 361.256
+Maximum Ping Time : 391.119
+Order             : 124
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : penny.ns.cloudflare.com
+IP Address        : 172.64.34.124
+Reply IP Address  : 172.64.34.124
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 389.671
+Last Ping TTL     : 53
+Average Ping Time : 389.935
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 367.193
+Maximum Ping Time : 402.091
+Order             : 125
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : kristina.ns.cloudflare.com
+IP Address        : 172.64.34.125
+Reply IP Address  : 172.64.34.125
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 173.791
+Last Ping TTL     : 53
+Average Ping Time : 178.029
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 173.205
+Maximum Ping Time : 184.743
+Order             : 126
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sureena.ns.cloudflare.com
+IP Address        : 172.64.34.126
+Reply IP Address  : 172.64.34.126
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 175.871
+Last Ping TTL     : 53
+Average Ping Time : 176.051
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 173.204
+Maximum Ping Time : 179.779
+Order             : 127
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ullis.ns.cloudflare.com
+IP Address        : 172.64.34.127
+Reply IP Address  : 172.64.34.127
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 393.601
+Last Ping TTL     : 53
+Average Ping Time : 382.153
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 348.892
+Maximum Ping Time : 418.456
+Order             : 128
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : walk.ns.cloudflare.com
+IP Address        : 172.64.34.128
+Reply IP Address  : 172.64.34.128
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 191.302
+Last Ping TTL     : 53
+Average Ping Time : 190.027
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 188.026
+Maximum Ping Time : 191.964
+Order             : 129
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : nova.ns.cloudflare.com
+IP Address        : 172.64.34.129
+Reply IP Address  : 172.64.34.129
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 182.212
+Last Ping TTL     : 53
+Average Ping Time : 321.650
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 182.212
+Maximum Ping Time : 409.969
+Order             : 130
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : desiree.ns.cloudflare.com
+IP Address        : 172.64.34.13
+Reply IP Address  : 172.64.34.13
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 169.183
+Last Ping TTL     : 53
+Average Ping Time : 169.844
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 169.040
+Maximum Ping Time : 171.450
+Order             : 14
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : courtney.ns.cloudflare.com
+IP Address        : 172.64.34.130
+Reply IP Address  : 172.64.34.130
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 340.647
+Last Ping TTL     : 53
+Average Ping Time : 363.496
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 327.418
+Maximum Ping Time : 429.119
+Order             : 131
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : luciana.ns.cloudflare.com
+IP Address        : 172.64.34.131
+Reply IP Address  : 172.64.34.131
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 181.849
+Last Ping TTL     : 53
+Average Ping Time : 204.820
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 181.849
+Maximum Ping Time : 216.673
+Order             : 132
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : jacqueline.ns.cloudflare.com
+IP Address        : 172.64.34.132
+Reply IP Address  : 172.64.34.132
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 324.267
+Last Ping TTL     : 53
+Average Ping Time : 369.413
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 324.267
+Maximum Ping Time : 412.022
+Order             : 133
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : holly.ns.cloudflare.com
+IP Address        : 172.64.34.133
+Reply IP Address  : 172.64.34.133
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 230.670
+Last Ping TTL     : 53
+Average Ping Time : 249.576
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 214.399
+Maximum Ping Time : 298.937
+Order             : 134
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : gabriella.ns.cloudflare.com
+IP Address        : 172.64.34.134
+Reply IP Address  : 172.64.34.134
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 333.906
+Last Ping TTL     : 53
+Average Ping Time : 325.331
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 256.925
+Maximum Ping Time : 362.631
+Order             : 135
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : cecelia.ns.cloudflare.com
+IP Address        : 172.64.34.135
+Reply IP Address  : 172.64.34.135
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 188.788
+Last Ping TTL     : 53
+Average Ping Time : 189.508
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 188.343
+Maximum Ping Time : 191.773
+Order             : 136
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : savanna.ns.cloudflare.com
+IP Address        : 172.64.34.136
+Reply IP Address  : 172.64.34.136
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 365.356
+Last Ping TTL     : 53
+Average Ping Time : 380.142
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 365.356
+Maximum Ping Time : 394.872
+Order             : 137
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : frida.ns.cloudflare.com
+IP Address        : 172.64.34.137
+Reply IP Address  : 172.64.34.137
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 373.502
+Last Ping TTL     : 53
+Average Ping Time : 386.121
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 373.502
+Maximum Ping Time : 399.713
+Order             : 138
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : melany.ns.cloudflare.com
+IP Address        : 172.64.34.138
+Reply IP Address  : 172.64.34.138
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:39
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 354.974
+Last Ping TTL     : 53
+Average Ping Time : 364.339
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:39
+Minimum Ping Time : 354.974
+Maximum Ping Time : 373.509
+Order             : 139
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : khloe.ns.cloudflare.com
+IP Address        : 172.64.34.139
+Reply IP Address  : 172.64.34.139
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 421.669
+Last Ping TTL     : 53
+Average Ping Time : 415.683
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 386.500
+Maximum Ping Time : 428.862
+Order             : 140
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : joyce.ns.cloudflare.com
+IP Address        : 172.64.34.14
+Reply IP Address  : 172.64.34.14
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 189.503
+Last Ping TTL     : 53
+Average Ping Time : 212.963
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 189.503
+Maximum Ping Time : 225.380
+Order             : 15
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : pearl.ns.cloudflare.com
+IP Address        : 172.64.34.140
+Reply IP Address  : 172.64.34.140
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 399.662
+Last Ping TTL     : 53
+Average Ping Time : 396.132
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 379.731
+Maximum Ping Time : 411.214
+Order             : 141
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : wren.ns.cloudflare.com
+IP Address        : 172.64.34.141
+Reply IP Address  : 172.64.34.141
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 389.641
+Last Ping TTL     : 53
+Average Ping Time : 386.694
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 369.511
+Maximum Ping Time : 401.695
+Order             : 142
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : martha.ns.cloudflare.com
+IP Address        : 172.64.34.142
+Reply IP Address  : 172.64.34.142
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 324.259
+Last Ping TTL     : 53
+Average Ping Time : 344.246
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 305.910
+Maximum Ping Time : 407.672
+Order             : 143
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : lilith.ns.cloudflare.com
+IP Address        : 172.64.34.143
+Reply IP Address  : 172.64.34.143
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 165.985
+Last Ping TTL     : 53
+Average Ping Time : 170.159
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 165.130
+Maximum Ping Time : 177.997
+Order             : 144
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : gracie.ns.cloudflare.com
+IP Address        : 172.64.34.144
+Reply IP Address  : 172.64.34.144
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 339.501
+Last Ping TTL     : 53
+Average Ping Time : 212.337
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 168.301
+Maximum Ping Time : 339.501
+Order             : 145
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : nucum.ns.cloudflare.com
+IP Address        : 172.64.34.145
+Reply IP Address  : 172.64.34.145
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 176.688
+Last Ping TTL     : 53
+Average Ping Time : 179.150
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 176.548
+Maximum Ping Time : 181.721
+Order             : 146
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : harmony.ns.cloudflare.com
+IP Address        : 172.64.34.146
+Reply IP Address  : 172.64.34.146
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.486
+Last Ping TTL     : 53
+Average Ping Time : 170.498
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 168.132
+Maximum Ping Time : 172.668
+Order             : 147
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : veda.ns.cloudflare.com
+IP Address        : 172.64.34.147
+Reply IP Address  : 172.64.34.147
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:17:36
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 185.065
+Last Ping TTL     : 53
+Average Ping Time : 208.850
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:17:36
+Minimum Ping Time : 185.065
+Maximum Ping Time : 232.221
+Order             : 148
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : autumn.ns.cloudflare.com
+IP Address        : 172.64.34.148
+Reply IP Address  : 172.64.34.148
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 177.821
+Last Ping TTL     : 53
+Average Ping Time : 176.388
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 174.214
+Maximum Ping Time : 177.821
+Order             : 149
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : zainab.ns.cloudflare.com
+IP Address        : 172.64.34.149
+Reply IP Address  : 172.64.34.149
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.389
+Last Ping TTL     : 53
+Average Ping Time : 199.693
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 172.389
+Maximum Ping Time : 213.259
+Order             : 150
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : haley.ns.cloudflare.com
+IP Address        : 172.64.34.15
+Reply IP Address  : 172.64.34.15
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 170.100
+Last Ping TTL     : 53
+Average Ping Time : 170.587
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 170.077
+Maximum Ping Time : 171.483
+Order             : 16
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : grannbo.ns.cloudflare.com
+IP Address        : 172.64.34.150
+Reply IP Address  : 172.64.34.150
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 391.708
+Last Ping TTL     : 53
+Average Ping Time : 370.614
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 330.883
+Maximum Ping Time : 420.402
+Order             : 151
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : leanna.ns.cloudflare.com
+IP Address        : 172.64.34.151
+Reply IP Address  : 172.64.34.151
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 197.704
+Last Ping TTL     : 53
+Average Ping Time : 197.756
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 191.176
+Maximum Ping Time : 207.274
+Order             : 152
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : nelci.ns.cloudflare.com
+IP Address        : 172.64.34.152
+Reply IP Address  : 172.64.34.152
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 216.923
+Last Ping TTL     : 53
+Average Ping Time : 202.419
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 194.881
+Maximum Ping Time : 216.923
+Order             : 153
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : monroe.ns.cloudflare.com
+IP Address        : 172.64.34.153
+Reply IP Address  : 172.64.34.153
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 405.012
+Last Ping TTL     : 53
+Average Ping Time : 396.428
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 389.872
+Maximum Ping Time : 405.012
+Order             : 154
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : stella.ns.cloudflare.com
+IP Address        : 172.64.34.154
+Reply IP Address  : 172.64.34.154
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:07
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 388.081
+Last Ping TTL     : 53
+Average Ping Time : 341.622
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:07
+Minimum Ping Time : 251.196
+Maximum Ping Time : 388.081
+Order             : 155
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : riya.ns.cloudflare.com
+IP Address        : 172.64.34.155
+Reply IP Address  : 172.64.34.155
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 205.063
+Last Ping TTL     : 53
+Average Ping Time : 186.728
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 179.511
+Maximum Ping Time : 205.063
+Order             : 156
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : adele.ns.cloudflare.com
+IP Address        : 172.64.34.156
+Reply IP Address  : 172.64.34.156
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 190.844
+Last Ping TTL     : 53
+Average Ping Time : 189.514
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 184.759
+Maximum Ping Time : 195.007
+Order             : 157
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : hazel.ns.cloudflare.com
+IP Address        : 172.64.34.157
+Reply IP Address  : 172.64.34.157
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.478
+Last Ping TTL     : 53
+Average Ping Time : 178.252
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.825
+Maximum Ping Time : 184.907
+Order             : 158
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : raegan.ns.cloudflare.com
+IP Address        : 172.64.34.158
+Reply IP Address  : 172.64.34.158
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 189.978
+Last Ping TTL     : 53
+Average Ping Time : 187.667
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 181.392
+Maximum Ping Time : 192.313
+Order             : 159
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : romina.ns.cloudflare.com
+IP Address        : 172.64.34.159
+Reply IP Address  : 172.64.34.159
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.489
+Last Ping TTL     : 53
+Average Ping Time : 173.295
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 172.489
+Maximum Ping Time : 175.166
+Order             : 160
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : gloria.ns.cloudflare.com
+IP Address        : 172.64.34.16
+Reply IP Address  : 172.64.34.16
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 327.993
+Last Ping TTL     : 53
+Average Ping Time : 376.975
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 327.993
+Maximum Ping Time : 411.049
+Order             : 17
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : samara.ns.cloudflare.com
+IP Address        : 172.64.34.160
+Reply IP Address  : 172.64.34.160
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 189.871
+Last Ping TTL     : 53
+Average Ping Time : 190.378
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 189.742
+Maximum Ping Time : 191.602
+Order             : 161
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : nena.ns.cloudflare.com
+IP Address        : 172.64.34.161
+Reply IP Address  : 172.64.34.161
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 174.482
+Last Ping TTL     : 53
+Average Ping Time : 178.735
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 174.482
+Maximum Ping Time : 185.679
+Order             : 162
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sneh.ns.cloudflare.com
+IP Address        : 172.64.34.162
+Reply IP Address  : 172.64.34.162
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:39
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 375.277
+Last Ping TTL     : 53
+Average Ping Time : 368.717
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:39
+Minimum Ping Time : 359.720
+Maximum Ping Time : 375.277
+Order             : 163
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : indie.ns.cloudflare.com
+IP Address        : 172.64.34.163
+Reply IP Address  : 172.64.34.163
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 165.749
+Last Ping TTL     : 53
+Average Ping Time : 167.336
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 165.724
+Maximum Ping Time : 169.575
+Order             : 164
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : arely.ns.cloudflare.com
+IP Address        : 172.64.34.164
+Reply IP Address  : 172.64.34.164
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 167.761
+Last Ping TTL     : 53
+Average Ping Time : 168.939
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 167.761
+Maximum Ping Time : 171.540
+Order             : 165
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : malavika.ns.cloudflare.com
+IP Address        : 172.64.34.165
+Reply IP Address  : 172.64.34.165
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 330.083
+Last Ping TTL     : 53
+Average Ping Time : 372.766
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 330.083
+Maximum Ping Time : 412.021
+Order             : 166
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sunny.ns.cloudflare.com
+IP Address        : 172.64.34.166
+Reply IP Address  : 172.64.34.166
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 168.406
+Last Ping TTL     : 53
+Average Ping Time : 169.084
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 168.406
+Maximum Ping Time : 170.053
+Order             : 167
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : margot.ns.cloudflare.com
+IP Address        : 172.64.34.167
+Reply IP Address  : 172.64.34.167
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.381
+Last Ping TTL     : 53
+Average Ping Time : 172.783
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.101
+Maximum Ping Time : 174.553
+Order             : 168
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : paloma.ns.cloudflare.com
+IP Address        : 172.64.34.168
+Reply IP Address  : 172.64.34.168
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 185.589
+Last Ping TTL     : 53
+Average Ping Time : 183.419
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 176.069
+Maximum Ping Time : 186.410
+Order             : 169
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : daphne.ns.cloudflare.com
+IP Address        : 172.64.34.169
+Reply IP Address  : 172.64.34.169
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 208.279
+Last Ping TTL     : 53
+Average Ping Time : 190.577
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 179.763
+Maximum Ping Time : 208.279
+Order             : 170
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : princess.ns.cloudflare.com
+IP Address        : 172.64.34.17
+Reply IP Address  : 172.64.34.17
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 303.621
+Last Ping TTL     : 53
+Average Ping Time : 352.274
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 303.621
+Maximum Ping Time : 375.758
+Order             : 18
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : keyla.ns.cloudflare.com
+IP Address        : 172.64.34.170
+Reply IP Address  : 172.64.34.170
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 397.344
+Last Ping TTL     : 53
+Average Ping Time : 392.884
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 386.159
+Maximum Ping Time : 399.090
+Order             : 171
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : jewel.ns.cloudflare.com
+IP Address        : 172.64.34.171
+Reply IP Address  : 172.64.34.171
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:39
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 347.106
+Last Ping TTL     : 53
+Average Ping Time : 378.130
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:39
+Minimum Ping Time : 347.106
+Maximum Ping Time : 402.952
+Order             : 172
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : hattie.ns.cloudflare.com
+IP Address        : 172.64.34.172
+Reply IP Address  : 172.64.34.172
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 174.277
+Last Ping TTL     : 53
+Average Ping Time : 174.472
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.406
+Maximum Ping Time : 180.387
+Order             : 173
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : veronica.ns.cloudflare.com
+IP Address        : 172.64.34.173
+Reply IP Address  : 172.64.34.173
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.252
+Last Ping TTL     : 53
+Average Ping Time : 175.874
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.252
+Maximum Ping Time : 186.506
+Order             : 174
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : teagan.ns.cloudflare.com
+IP Address        : 172.64.34.174
+Reply IP Address  : 172.64.34.174
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.240
+Last Ping TTL     : 53
+Average Ping Time : 172.787
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 172.189
+Maximum Ping Time : 173.366
+Order             : 175
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : alexia.ns.cloudflare.com
+IP Address        : 172.64.34.175
+Reply IP Address  : 172.64.34.175
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 334.961
+Last Ping TTL     : 53
+Average Ping Time : 371.041
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 334.961
+Maximum Ping Time : 391.741
+Order             : 176
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : brenna.ns.cloudflare.com
+IP Address        : 172.64.34.176
+Reply IP Address  : 172.64.34.176
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 399.047
+Last Ping TTL     : 53
+Average Ping Time : 395.138
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 388.548
+Maximum Ping Time : 401.788
+Order             : 177
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : chelsea.ns.cloudflare.com
+IP Address        : 172.64.34.177
+Reply IP Address  : 
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:19:11
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Request Timeout
+Last Ping Time    : 368.328
+Last Ping TTL     : 
+Average Ping Time : 328.201
+Description       : 
+Last Succeed On   : 2024/12/14 15:18:39
+Last Failed On    : 2024/12/14 15:19:11
+Minimum Ping Time : 248.259
+Maximum Ping Time : 368.328
+Order             : 178
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sreeni.ns.cloudflare.com
+IP Address        : 172.64.34.178
+Reply IP Address  : 172.64.34.178
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 372.177
+Last Ping TTL     : 53
+Average Ping Time : 370.050
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 363.919
+Maximum Ping Time : 373.917
+Order             : 179
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : maxine.ns.cloudflare.com
+IP Address        : 172.64.34.179
+Reply IP Address  : 172.64.34.179
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 204.163
+Last Ping TTL     : 53
+Average Ping Time : 201.836
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 195.119
+Maximum Ping Time : 207.842
+Order             : 180
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : paityn.ns.cloudflare.com
+IP Address        : 172.64.34.18
+Reply IP Address  : 172.64.34.18
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 344.543
+Last Ping TTL     : 53
+Average Ping Time : 337.333
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 301.393
+Maximum Ping Time : 365.661
+Order             : 19
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : faye.ns.cloudflare.com
+IP Address        : 172.64.34.180
+Reply IP Address  : 172.64.34.180
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 384.200
+Last Ping TTL     : 53
+Average Ping Time : 350.339
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 297.161
+Maximum Ping Time : 396.343
+Order             : 181
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : millie.ns.cloudflare.com
+IP Address        : 172.64.34.181
+Reply IP Address  : 
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:19:11
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Request Timeout
+Last Ping Time    : 166.864
+Last Ping TTL     : 
+Average Ping Time : 168.612
+Description       : 
+Last Succeed On   : 2024/12/14 15:18:39
+Last Failed On    : 2024/12/14 15:19:11
+Minimum Ping Time : 166.864
+Maximum Ping Time : 169.716
+Order             : 182
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : novalee.ns.cloudflare.com
+IP Address        : 172.64.34.182
+Reply IP Address  : 172.64.34.182
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 225.298
+Last Ping TTL     : 53
+Average Ping Time : 202.075
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 192.632
+Maximum Ping Time : 225.298
+Order             : 183
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : paislee.ns.cloudflare.com
+IP Address        : 172.64.34.183
+Reply IP Address  : 172.64.34.183
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 173.154
+Last Ping TTL     : 53
+Average Ping Time : 175.178
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 173.154
+Maximum Ping Time : 177.391
+Order             : 184
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : melina.ns.cloudflare.com
+IP Address        : 172.64.34.184
+Reply IP Address  : 172.64.34.184
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:08
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 196.975
+Last Ping TTL     : 53
+Average Ping Time : 182.805
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:08
+Minimum Ping Time : 175.069
+Maximum Ping Time : 196.975
+Order             : 185
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : jen.ns.cloudflare.com
+IP Address        : 172.64.34.185
+Reply IP Address  : 
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:19:11
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Request Timeout
+Last Ping Time    : 372.225
+Last Ping TTL     : 
+Average Ping Time : 330.435
+Description       : 
+Last Succeed On   : 2024/12/14 15:18:39
+Last Failed On    : 2024/12/14 15:19:11
+Minimum Ping Time : 248.108
+Maximum Ping Time : 372.225
+Order             : 186
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : aisha.ns.cloudflare.com
+IP Address        : 172.64.34.186
+Reply IP Address  : 172.64.34.186
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 383.895
+Last Ping TTL     : 53
+Average Ping Time : 349.838
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 297.139
+Maximum Ping Time : 395.683
+Order             : 187
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : danica.ns.cloudflare.com
+IP Address        : 172.64.34.187
+Reply IP Address  : 172.64.34.187
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 210.001
+Last Ping TTL     : 53
+Average Ping Time : 187.740
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 178.236
+Maximum Ping Time : 210.001
+Order             : 188
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : fatima.ns.cloudflare.com
+IP Address        : 172.64.34.188
+Reply IP Address  : 172.64.34.188
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 397.942
+Last Ping TTL     : 53
+Average Ping Time : 388.203
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 369.343
+Maximum Ping Time : 405.523
+Order             : 189
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : priscilla.ns.cloudflare.com
+IP Address        : 172.64.34.189
+Reply IP Address  : 172.64.34.189
+Succeed Count     : 2
+Failed Count      : 2
+Consecutive Failed Count: 2
+Max Consecutive Failed Count: 2
+Max Consecutive Failed Time: 2024/12/14 15:18:39
+% Failed          : 50.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 344.684
+Last Ping TTL     : 53
+Average Ping Time : 365.149
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:39
+Minimum Ping Time : 344.684
+Maximum Ping Time : 385.613
+Order             : 190
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : surina.ns.cloudflare.com
+IP Address        : 172.64.34.19
+Reply IP Address  : 172.64.34.19
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 185.220
+Last Ping TTL     : 53
+Average Ping Time : 184.677
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 180.247
+Maximum Ping Time : 189.398
+Order             : 20
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sonia.ns.cloudflare.com
+IP Address        : 172.64.34.190
+Reply IP Address  : 172.64.34.190
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 169.355
+Last Ping TTL     : 53
+Average Ping Time : 194.634
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 169.355
+Maximum Ping Time : 210.276
+Order             : 191
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ursula.ns.cloudflare.com
+IP Address        : 172.64.34.191
+Reply IP Address  : 172.64.34.191
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 183.063
+Last Ping TTL     : 53
+Average Ping Time : 184.557
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 183.063
+Maximum Ping Time : 188.098
+Order             : 192
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : raphaela.ns.cloudflare.com
+IP Address        : 172.64.34.192
+Reply IP Address  : 
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:19:11
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Request Timeout
+Last Ping Time    : 187.070
+Last Ping TTL     : 
+Average Ping Time : 186.065
+Description       : 
+Last Succeed On   : 2024/12/14 15:18:39
+Last Failed On    : 2024/12/14 15:19:11
+Minimum Ping Time : 184.509
+Maximum Ping Time : 187.070
+Order             : 193
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : christina.ns.cloudflare.com
+IP Address        : 172.64.34.193
+Reply IP Address  : 172.64.34.193
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 414.383
+Last Ping TTL     : 53
+Average Ping Time : 405.185
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 392.545
+Maximum Ping Time : 414.383
+Order             : 194
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : karsyn.ns.cloudflare.com
+IP Address        : 172.64.34.194
+Reply IP Address  : 172.64.34.194
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 411.265
+Last Ping TTL     : 53
+Average Ping Time : 408.488
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 403.075
+Maximum Ping Time : 416.197
+Order             : 195
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : cora.ns.cloudflare.com
+IP Address        : 172.64.34.195
+Reply IP Address  : 172.64.34.195
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 183.523
+Last Ping TTL     : 53
+Average Ping Time : 183.169
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 181.930
+Maximum Ping Time : 184.806
+Order             : 196
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : meilani.ns.cloudflare.com
+IP Address        : 172.64.34.196
+Reply IP Address  : 172.64.34.196
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.775
+Last Ping TTL     : 53
+Average Ping Time : 196.983
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 172.775
+Maximum Ping Time : 213.063
+Order             : 197
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : kira.ns.cloudflare.com
+IP Address        : 172.64.34.197
+Reply IP Address  : 172.64.34.197
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 383.517
+Last Ping TTL     : 53
+Average Ping Time : 351.586
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 294.426
+Maximum Ping Time : 396.375
+Order             : 198
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ryleigh.ns.cloudflare.com
+IP Address        : 172.64.34.198
+Reply IP Address  : 172.64.34.198
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 184.129
+Last Ping TTL     : 53
+Average Ping Time : 179.784
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 170.689
+Maximum Ping Time : 187.371
+Order             : 199
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : susan.ns.cloudflare.com
+IP Address        : 172.64.34.199
+Reply IP Address  : 172.64.34.199
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 427.221
+Last Ping TTL     : 53
+Average Ping Time : 422.335
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 405.306
+Maximum Ping Time : 438.849
+Order             : 200
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sky.ns.cloudflare.com
+IP Address        : 172.64.34.2
+Reply IP Address  : 172.64.34.2
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 173.517
+Last Ping TTL     : 53
+Average Ping Time : 174.940
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 169.073
+Maximum Ping Time : 180.622
+Order             : 3
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : carioca.ns.cloudflare.com
+IP Address        : 172.64.34.20
+Reply IP Address  : 172.64.34.20
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 314.635
+Last Ping TTL     : 53
+Average Ping Time : 341.641
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 314.635
+Maximum Ping Time : 360.727
+Order             : 21
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : mariah.ns.cloudflare.com
+IP Address        : 172.64.34.200
+Reply IP Address  : 
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:19:11
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Request Timeout
+Last Ping Time    : 360.470
+Last Ping TTL     : 
+Average Ping Time : 378.364
+Description       : 
+Last Succeed On   : 2024/12/14 15:18:39
+Last Failed On    : 2024/12/14 15:19:11
+Minimum Ping Time : 360.470
+Maximum Ping Time : 397.326
+Order             : 201
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : phoenix.ns.cloudflare.com
+IP Address        : 172.64.34.201
+Reply IP Address  : 172.64.34.201
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 320.865
+Last Ping TTL     : 53
+Average Ping Time : 357.423
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 320.865
+Maximum Ping Time : 377.237
+Order             : 202
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : crystal.ns.cloudflare.com
+IP Address        : 172.64.34.202
+Reply IP Address  : 172.64.34.202
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 184.384
+Last Ping TTL     : 53
+Average Ping Time : 191.262
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 184.384
+Maximum Ping Time : 205.185
+Order             : 203
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : perla.ns.cloudflare.com
+IP Address        : 172.64.34.203
+Reply IP Address  : 172.64.34.203
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 204.942
+Last Ping TTL     : 53
+Average Ping Time : 224.407
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 204.942
+Maximum Ping Time : 246.791
+Order             : 204
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : eve.ns.cloudflare.com
+IP Address        : 172.64.34.204
+Reply IP Address  : 172.64.34.204
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:39
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 396.547
+Last Ping TTL     : 53
+Average Ping Time : 347.821
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:39
+Minimum Ping Time : 264.310
+Maximum Ping Time : 396.547
+Order             : 205
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : eleanor.ns.cloudflare.com
+IP Address        : 172.64.34.205
+Reply IP Address  : 172.64.34.205
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 349.986
+Last Ping TTL     : 53
+Average Ping Time : 380.621
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 349.986
+Maximum Ping Time : 404.151
+Order             : 206
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : keira.ns.cloudflare.com
+IP Address        : 172.64.34.206
+Reply IP Address  : 172.64.34.206
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 396.608
+Last Ping TTL     : 53
+Average Ping Time : 351.299
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 256.226
+Maximum Ping Time : 396.608
+Order             : 207
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : annabel.ns.cloudflare.com
+IP Address        : 172.64.34.207
+Reply IP Address  : 172.64.34.207
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 182.934
+Last Ping TTL     : 53
+Average Ping Time : 183.073
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 181.450
+Maximum Ping Time : 184.029
+Order             : 208
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : eloise.ns.cloudflare.com
+IP Address        : 172.64.34.208
+Reply IP Address  : 172.64.34.208
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 193.590
+Last Ping TTL     : 53
+Average Ping Time : 183.811
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 178.608
+Maximum Ping Time : 193.590
+Order             : 209
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : emely.ns.cloudflare.com
+IP Address        : 172.64.34.209
+Reply IP Address  : 172.64.34.209
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 314.155
+Last Ping TTL     : 53
+Average Ping Time : 353.326
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 314.155
+Maximum Ping Time : 390.721
+Order             : 210
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : selah.ns.cloudflare.com
+IP Address        : 172.64.34.21
+Reply IP Address  : 172.64.34.21
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.491
+Last Ping TTL     : 53
+Average Ping Time : 170.043
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 166.488
+Maximum Ping Time : 172.491
+Order             : 22
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : raquel.ns.cloudflare.com
+IP Address        : 172.64.34.210
+Reply IP Address  : 172.64.34.210
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 182.318
+Last Ping TTL     : 53
+Average Ping Time : 179.580
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.680
+Maximum Ping Time : 192.141
+Order             : 211
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ainsley.ns.cloudflare.com
+IP Address        : 172.64.34.211
+Reply IP Address  : 172.64.34.211
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:17:36
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 380.201
+Last Ping TTL     : 53
+Average Ping Time : 378.992
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:17:36
+Minimum Ping Time : 376.990
+Maximum Ping Time : 380.201
+Order             : 212
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : marlowe.ns.cloudflare.com
+IP Address        : 172.64.34.212
+Reply IP Address  : 172.64.34.212
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.368
+Last Ping TTL     : 53
+Average Ping Time : 172.353
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.179
+Maximum Ping Time : 173.469
+Order             : 213
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : evelyn.ns.cloudflare.com
+IP Address        : 172.64.34.213
+Reply IP Address  : 172.64.34.213
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 181.237
+Last Ping TTL     : 53
+Average Ping Time : 171.131
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 167.042
+Maximum Ping Time : 181.237
+Order             : 214
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : magnolia.ns.cloudflare.com
+IP Address        : 172.64.34.214
+Reply IP Address  : 172.64.34.214
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.954
+Last Ping TTL     : 53
+Average Ping Time : 173.629
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.954
+Maximum Ping Time : 177.001
+Order             : 215
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : alexa.ns.cloudflare.com
+IP Address        : 172.64.34.215
+Reply IP Address  : 172.64.34.215
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 181.723
+Last Ping TTL     : 53
+Average Ping Time : 180.841
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 180.029
+Maximum Ping Time : 181.723
+Order             : 216
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : teresa.ns.cloudflare.com
+IP Address        : 172.64.34.216
+Reply IP Address  : 172.64.34.216
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 169.017
+Last Ping TTL     : 53
+Average Ping Time : 169.042
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 168.033
+Maximum Ping Time : 170.978
+Order             : 217
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : addilyn.ns.cloudflare.com
+IP Address        : 172.64.34.217
+Reply IP Address  : 172.64.34.217
+Succeed Count     : 2
+Failed Count      : 2
+Consecutive Failed Count: 2
+Max Consecutive Failed Count: 2
+Max Consecutive Failed Time: 2024/12/14 15:18:39
+% Failed          : 50.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 329.379
+Last Ping TTL     : 53
+Average Ping Time : 348.947
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:39
+Minimum Ping Time : 329.379
+Maximum Ping Time : 368.515
+Order             : 218
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sarah.ns.cloudflare.com
+IP Address        : 172.64.34.218
+Reply IP Address  : 172.64.34.218
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 196.580
+Last Ping TTL     : 53
+Average Ping Time : 196.840
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 196.253
+Maximum Ping Time : 198.083
+Order             : 219
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : clara.ns.cloudflare.com
+IP Address        : 172.64.34.219
+Reply IP Address  : 172.64.34.219
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 407.439
+Last Ping TTL     : 53
+Average Ping Time : 390.935
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 381.186
+Maximum Ping Time : 407.439
+Order             : 220
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : lauryn.ns.cloudflare.com
+IP Address        : 172.64.34.22
+Reply IP Address  : 172.64.34.22
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 373.397
+Last Ping TTL     : 53
+Average Ping Time : 384.503
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 373.397
+Maximum Ping Time : 397.530
+Order             : 23
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : dalary.ns.cloudflare.com
+IP Address        : 172.64.34.220
+Reply IP Address  : 
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:19:11
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Request Timeout
+Last Ping Time    : 185.421
+Last Ping TTL     : 
+Average Ping Time : 178.848
+Description       : 
+Last Succeed On   : 2024/12/14 15:18:39
+Last Failed On    : 2024/12/14 15:19:11
+Minimum Ping Time : 174.163
+Maximum Ping Time : 185.421
+Order             : 221
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : olivia.ns.cloudflare.com
+IP Address        : 172.64.34.221
+Reply IP Address  : 172.64.34.221
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:17:36
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 201.933
+Last Ping TTL     : 53
+Average Ping Time : 341.617
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:17:36
+Minimum Ping Time : 201.933
+Maximum Ping Time : 428.449
+Order             : 222
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : aitana.ns.cloudflare.com
+IP Address        : 172.64.34.222
+Reply IP Address  : 172.64.34.222
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 419.831
+Last Ping TTL     : 53
+Average Ping Time : 412.469
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 396.056
+Maximum Ping Time : 423.309
+Order             : 223
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : kehlani.ns.cloudflare.com
+IP Address        : 172.64.34.223
+Reply IP Address  : 172.64.34.223
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 231.419
+Last Ping TTL     : 53
+Average Ping Time : 231.287
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 219.344
+Maximum Ping Time : 247.354
+Order             : 224
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : elisabeth.ns.cloudflare.com
+IP Address        : 172.64.34.224
+Reply IP Address  : 172.64.34.224
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 165.477
+Last Ping TTL     : 53
+Average Ping Time : 166.153
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 165.265
+Maximum Ping Time : 168.434
+Order             : 225
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ariadne.ns.cloudflare.com
+IP Address        : 172.64.34.225
+Reply IP Address  : 172.64.34.225
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 307.845
+Last Ping TTL     : 53
+Average Ping Time : 351.883
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 307.845
+Maximum Ping Time : 375.663
+Order             : 226
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : collins.ns.cloudflare.com
+IP Address        : 172.64.34.226
+Reply IP Address  : 172.64.34.226
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 377.221
+Last Ping TTL     : 53
+Average Ping Time : 341.420
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 289.569
+Maximum Ping Time : 377.221
+Order             : 227
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : anastasia.ns.cloudflare.com
+IP Address        : 172.64.34.227
+Reply IP Address  : 172.64.34.227
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 173.352
+Last Ping TTL     : 53
+Average Ping Time : 172.830
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 170.861
+Maximum Ping Time : 173.803
+Order             : 228
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : daniella.ns.cloudflare.com
+IP Address        : 172.64.34.228
+Reply IP Address  : 172.64.34.228
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 168.854
+Last Ping TTL     : 53
+Average Ping Time : 173.260
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 168.854
+Maximum Ping Time : 185.458
+Order             : 229
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : tessa.ns.cloudflare.com
+IP Address        : 172.64.34.229
+Reply IP Address  : 172.64.34.229
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 182.388
+Last Ping TTL     : 53
+Average Ping Time : 182.485
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 182.195
+Maximum Ping Time : 182.824
+Order             : 230
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : diana.ns.cloudflare.com
+IP Address        : 172.64.34.23
+Reply IP Address  : 172.64.34.23
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 308.680
+Last Ping TTL     : 53
+Average Ping Time : 356.497
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 308.680
+Maximum Ping Time : 384.693
+Order             : 24
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : laylah.ns.cloudflare.com
+IP Address        : 172.64.34.230
+Reply IP Address  : 172.64.34.230
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 385.692
+Last Ping TTL     : 53
+Average Ping Time : 350.613
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 297.377
+Maximum Ping Time : 385.692
+Order             : 231
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : carrera.ns.cloudflare.com
+IP Address        : 172.64.34.231
+Reply IP Address  : 172.64.34.231
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 398.646
+Last Ping TTL     : 53
+Average Ping Time : 380.187
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 317.735
+Maximum Ping Time : 403.680
+Order             : 232
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : angelina.ns.cloudflare.com
+IP Address        : 172.64.34.232
+Reply IP Address  : 172.64.34.232
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 265.369
+Last Ping TTL     : 53
+Average Ping Time : 326.902
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 265.369
+Maximum Ping Time : 372.029
+Order             : 233
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : galilea.ns.cloudflare.com
+IP Address        : 172.64.34.233
+Reply IP Address  : 172.64.34.233
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 374.660
+Last Ping TTL     : 53
+Average Ping Time : 357.828
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 297.848
+Maximum Ping Time : 379.510
+Order             : 234
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : annalise.ns.cloudflare.com
+IP Address        : 172.64.34.234
+Reply IP Address  : 172.64.34.234
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 317.545
+Last Ping TTL     : 53
+Average Ping Time : 363.442
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 317.545
+Maximum Ping Time : 385.105
+Order             : 235
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : katelyn.ns.cloudflare.com
+IP Address        : 172.64.34.235
+Reply IP Address  : 172.64.34.235
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 402.885
+Last Ping TTL     : 53
+Average Ping Time : 377.280
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 352.075
+Maximum Ping Time : 402.885
+Order             : 236
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : heidi.ns.cloudflare.com
+IP Address        : 172.64.34.236
+Reply IP Address  : 172.64.34.236
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 407.773
+Last Ping TTL     : 53
+Average Ping Time : 389.549
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 366.118
+Maximum Ping Time : 407.773
+Order             : 237
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ziggy.ns.cloudflare.com
+IP Address        : 172.64.34.237
+Reply IP Address  : 172.64.34.237
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:08
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 364.475
+Last Ping TTL     : 53
+Average Ping Time : 376.670
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:08
+Minimum Ping Time : 364.475
+Maximum Ping Time : 395.267
+Order             : 238
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : harlee.ns.cloudflare.com
+IP Address        : 172.64.34.238
+Reply IP Address  : 172.64.34.238
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 194.207
+Last Ping TTL     : 53
+Average Ping Time : 197.208
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 194.207
+Maximum Ping Time : 201.695
+Order             : 239
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : peaches.ns.cloudflare.com
+IP Address        : 172.64.34.239
+Reply IP Address  : 172.64.34.239
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 319.012
+Last Ping TTL     : 53
+Average Ping Time : 359.469
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 319.012
+Maximum Ping Time : 380.495
+Order             : 240
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : anahi.ns.cloudflare.com
+IP Address        : 172.64.34.24
+Reply IP Address  : 172.64.34.24
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 308.731
+Last Ping TTL     : 53
+Average Ping Time : 349.699
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 308.731
+Maximum Ping Time : 403.546
+Order             : 25
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : liberty.ns.cloudflare.com
+IP Address        : 172.64.34.240
+Reply IP Address  : 172.64.34.240
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:08
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 303.757
+Last Ping TTL     : 53
+Average Ping Time : 344.275
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:08
+Minimum Ping Time : 303.757
+Maximum Ping Time : 373.013
+Order             : 241
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : raina.ns.cloudflare.com
+IP Address        : 172.64.34.241
+Reply IP Address  : 172.64.34.241
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 365.730
+Last Ping TTL     : 53
+Average Ping Time : 310.229
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 178.846
+Maximum Ping Time : 371.105
+Order             : 242
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : naya.ns.cloudflare.com
+IP Address        : 172.64.34.242
+Reply IP Address  : 172.64.34.242
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.775
+Last Ping TTL     : 53
+Average Ping Time : 172.598
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.775
+Maximum Ping Time : 174.481
+Order             : 243
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : kimora.ns.cloudflare.com
+IP Address        : 172.64.34.243
+Reply IP Address  : 172.64.34.243
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 412.335
+Last Ping TTL     : 53
+Average Ping Time : 378.486
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 353.932
+Maximum Ping Time : 412.335
+Order             : 244
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : lilyana.ns.cloudflare.com
+IP Address        : 172.64.34.244
+Reply IP Address  : 172.64.34.244
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:17:36
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 359.195
+Last Ping TTL     : 53
+Average Ping Time : 367.497
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:17:36
+Minimum Ping Time : 359.195
+Maximum Ping Time : 372.339
+Order             : 245
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sierra.ns.cloudflare.com
+IP Address        : 172.64.34.245
+Reply IP Address  : 172.64.34.245
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 177.892
+Last Ping TTL     : 53
+Average Ping Time : 177.914
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 176.901
+Maximum Ping Time : 178.479
+Order             : 246
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : elly.ns.cloudflare.com
+IP Address        : 172.64.34.246
+Reply IP Address  : 172.64.34.246
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 168.348
+Last Ping TTL     : 53
+Average Ping Time : 169.948
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 168.348
+Maximum Ping Time : 170.806
+Order             : 247
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : thea.ns.cloudflare.com
+IP Address        : 172.64.34.247
+Reply IP Address  : 172.64.34.247
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:39
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 399.471
+Last Ping TTL     : 53
+Average Ping Time : 370.636
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:11
+Last Failed On    : 2024/12/14 15:18:39
+Minimum Ping Time : 354.620
+Maximum Ping Time : 399.471
+Order             : 248
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ophelia.ns.cloudflare.com
+IP Address        : 172.64.34.248
+Reply IP Address  : 172.64.34.248
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 200.597
+Last Ping TTL     : 53
+Average Ping Time : 199.138
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 190.378
+Maximum Ping Time : 211.422
+Order             : 249
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : shaz.ns.cloudflare.com
+IP Address        : 172.64.34.249
+Reply IP Address  : 172.64.34.249
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 401.349
+Last Ping TTL     : 53
+Average Ping Time : 376.811
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:11
+Last Failed On    : 
+Minimum Ping Time : 353.732
+Maximum Ping Time : 401.349
+Order             : 250
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : carlane.ns.cloudflare.com
+IP Address        : 172.64.34.25
+Reply IP Address  : 
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:19:10
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Request Timeout
+Last Ping Time    : 400.513
+Last Ping TTL     : 
+Average Ping Time : 389.916
+Description       : 
+Last Succeed On   : 2024/12/14 15:18:38
+Last Failed On    : 2024/12/14 15:19:10
+Minimum Ping Time : 382.334
+Maximum Ping Time : 400.513
+Order             : 26
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : melody.ns.cloudflare.com
+IP Address        : 172.64.34.250
+Reply IP Address  : 172.64.34.250
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 268.676
+Last Ping TTL     : 53
+Average Ping Time : 204.728
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 177.365
+Maximum Ping Time : 268.676
+Order             : 251
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : mina.ns.cloudflare.com
+IP Address        : 172.64.34.251
+Reply IP Address  : 172.64.34.251
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 405.534
+Last Ping TTL     : 53
+Average Ping Time : 381.936
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:11
+Last Failed On    : 
+Minimum Ping Time : 362.652
+Maximum Ping Time : 405.534
+Order             : 252
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : fish.ns.cloudflare.com
+IP Address        : 172.64.34.252
+Reply IP Address  : 172.64.34.252
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 429.084
+Last Ping TTL     : 53
+Average Ping Time : 402.273
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:11
+Last Failed On    : 
+Minimum Ping Time : 378.104
+Maximum Ping Time : 429.084
+Order             : 253
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : mckenzie.ns.cloudflare.com
+IP Address        : 172.64.34.253
+Reply IP Address  : 172.64.34.253
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 374.978
+Last Ping TTL     : 53
+Average Ping Time : 370.306
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 340.414
+Maximum Ping Time : 384.162
+Order             : 254
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : meiling.ns.cloudflare.com
+IP Address        : 172.64.34.254
+Reply IP Address  : 172.64.34.254
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 196.939
+Last Ping TTL     : 53
+Average Ping Time : 204.068
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 196.939
+Maximum Ping Time : 209.708
+Order             : 255
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : 172.64.34.255
+IP Address        : 172.64.34.255
+Reply IP Address  : 172.64.34.255
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 369.005
+Last Ping TTL     : 53
+Average Ping Time : 372.739
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 363.244
+Maximum Ping Time : 381.557
+Order             : 256
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : simone.ns.cloudflare.com
+IP Address        : 172.64.34.26
+Reply IP Address  : 172.64.34.26
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 255.641
+Last Ping TTL     : 53
+Average Ping Time : 256.473
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 188.602
+Maximum Ping Time : 311.533
+Order             : 27
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : gemma.ns.cloudflare.com
+IP Address        : 172.64.34.27
+Reply IP Address  : 172.64.34.27
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.640
+Last Ping TTL     : 53
+Average Ping Time : 176.196
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.640
+Maximum Ping Time : 181.826
+Order             : 28
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : colette.ns.cloudflare.com
+IP Address        : 172.64.34.28
+Reply IP Address  : 172.64.34.28
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 301.357
+Last Ping TTL     : 53
+Average Ping Time : 348.753
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 301.357
+Maximum Ping Time : 377.200
+Order             : 29
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : magali.ns.cloudflare.com
+IP Address        : 172.64.34.29
+Reply IP Address  : 172.64.34.29
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 188.790
+Last Ping TTL     : 53
+Average Ping Time : 190.831
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 188.790
+Maximum Ping Time : 194.871
+Order             : 30
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : journey.ns.cloudflare.com
+IP Address        : 172.64.34.3
+Reply IP Address  : 172.64.34.3
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:17:36
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 191.673
+Last Ping TTL     : 53
+Average Ping Time : 192.581
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:17:36
+Minimum Ping Time : 191.168
+Maximum Ping Time : 194.900
+Order             : 4
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : alexandra.ns.cloudflare.com
+IP Address        : 172.64.34.30
+Reply IP Address  : 172.64.34.30
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 167.377
+Last Ping TTL     : 53
+Average Ping Time : 171.170
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 167.377
+Maximum Ping Time : 175.815
+Order             : 31
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : bethany.ns.cloudflare.com
+IP Address        : 172.64.34.31
+Reply IP Address  : 172.64.34.31
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 405.607
+Last Ping TTL     : 53
+Average Ping Time : 415.757
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 405.607
+Maximum Ping Time : 430.851
+Order             : 32
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ariella.ns.cloudflare.com
+IP Address        : 172.64.34.32
+Reply IP Address  : 172.64.34.32
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 168.943
+Last Ping TTL     : 53
+Average Ping Time : 170.723
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 168.943
+Maximum Ping Time : 172.641
+Order             : 33
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : poppy.ns.cloudflare.com
+IP Address        : 172.64.34.33
+Reply IP Address  : 172.64.34.33
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:17:36
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 407.423
+Last Ping TTL     : 53
+Average Ping Time : 394.156
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:17:36
+Minimum Ping Time : 371.165
+Maximum Ping Time : 407.423
+Order             : 34
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sandra.ns.cloudflare.com
+IP Address        : 172.64.34.34
+Reply IP Address  : 172.64.34.34
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 297.599
+Last Ping TTL     : 53
+Average Ping Time : 326.054
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 297.599
+Maximum Ping Time : 348.417
+Order             : 35
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : piper.ns.cloudflare.com
+IP Address        : 172.64.34.35
+Reply IP Address  : 172.64.34.35
+Succeed Count     : 2
+Failed Count      : 2
+Consecutive Failed Count: 2
+Max Consecutive Failed Count: 2
+Max Consecutive Failed Time: 2024/12/14 15:18:07
+% Failed          : 50.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 371.331
+Last Ping TTL     : 53
+Average Ping Time : 382.218
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:07
+Minimum Ping Time : 371.331
+Maximum Ping Time : 393.106
+Order             : 36
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : bingo.ns.cloudflare.com
+IP Address        : 172.64.34.36
+Reply IP Address  : 172.64.34.36
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 389.700
+Last Ping TTL     : 53
+Average Ping Time : 385.974
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 367.439
+Maximum Ping Time : 397.136
+Order             : 37
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : virginia.ns.cloudflare.com
+IP Address        : 172.64.34.37
+Reply IP Address  : 172.64.34.37
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 346.851
+Last Ping TTL     : 53
+Average Ping Time : 341.033
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 309.722
+Maximum Ping Time : 367.681
+Order             : 38
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : paige.ns.cloudflare.com
+IP Address        : 172.64.34.38
+Reply IP Address  : 172.64.34.38
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 392.221
+Last Ping TTL     : 53
+Average Ping Time : 391.514
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 363.516
+Maximum Ping Time : 418.534
+Order             : 39
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : lovisa.ns.cloudflare.com
+IP Address        : 172.64.34.39
+Reply IP Address  : 172.64.34.39
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 180.324
+Last Ping TTL     : 53
+Average Ping Time : 195.374
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 180.324
+Maximum Ping Time : 231.823
+Order             : 40
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ligia.ns.cloudflare.com
+IP Address        : 172.64.34.4
+Reply IP Address  : 172.64.34.4
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 396.227
+Last Ping TTL     : 53
+Average Ping Time : 385.812
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 335.006
+Maximum Ping Time : 408.288
+Order             : 5
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : davina.ns.cloudflare.com
+IP Address        : 172.64.34.40
+Reply IP Address  : 172.64.34.40
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 182.907
+Last Ping TTL     : 53
+Average Ping Time : 186.259
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 182.907
+Maximum Ping Time : 192.375
+Order             : 41
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : bailey.ns.cloudflare.com
+IP Address        : 172.64.34.41
+Reply IP Address  : 172.64.34.41
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 303.647
+Last Ping TTL     : 53
+Average Ping Time : 351.004
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 303.647
+Maximum Ping Time : 381.726
+Order             : 42
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : itzel.ns.cloudflare.com
+IP Address        : 172.64.34.42
+Reply IP Address  : 172.64.34.42
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.712
+Last Ping TTL     : 53
+Average Ping Time : 173.130
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.641
+Maximum Ping Time : 175.325
+Order             : 43
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : joselyn.ns.cloudflare.com
+IP Address        : 172.64.34.43
+Reply IP Address  : 172.64.34.43
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 185.999
+Last Ping TTL     : 53
+Average Ping Time : 200.399
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 185.999
+Maximum Ping Time : 235.024
+Order             : 44
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : jillian.ns.cloudflare.com
+IP Address        : 172.64.34.44
+Reply IP Address  : 172.64.34.44
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 178.361
+Last Ping TTL     : 53
+Average Ping Time : 183.135
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 178.361
+Maximum Ping Time : 189.183
+Order             : 45
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : maeve.ns.cloudflare.com
+IP Address        : 172.64.34.45
+Reply IP Address  : 172.64.34.45
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 395.156
+Last Ping TTL     : 53
+Average Ping Time : 388.303
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 333.982
+Maximum Ping Time : 418.498
+Order             : 46
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : izabella.ns.cloudflare.com
+IP Address        : 172.64.34.46
+Reply IP Address  : 172.64.34.46
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 295.490
+Last Ping TTL     : 53
+Average Ping Time : 322.078
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 295.490
+Maximum Ping Time : 342.162
+Order             : 47
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : bristol.ns.cloudflare.com
+IP Address        : 172.64.34.47
+Reply IP Address  : 172.64.34.47
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 420.289
+Last Ping TTL     : 53
+Average Ping Time : 408.666
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 361.513
+Maximum Ping Time : 426.707
+Order             : 48
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : georgia.ns.cloudflare.com
+IP Address        : 172.64.34.48
+Reply IP Address  : 172.64.34.48
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 382.515
+Last Ping TTL     : 53
+Average Ping Time : 377.442
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 360.907
+Maximum Ping Time : 386.718
+Order             : 49
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : adaline.ns.cloudflare.com
+IP Address        : 172.64.34.49
+Reply IP Address  : 172.64.34.49
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 242.540
+Last Ping TTL     : 53
+Average Ping Time : 232.678
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 203.417
+Maximum Ping Time : 261.449
+Order             : 50
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : lindsey.ns.cloudflare.com
+IP Address        : 172.64.34.5
+Reply IP Address  : 172.64.34.5
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 179.178
+Last Ping TTL     : 53
+Average Ping Time : 180.895
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 178.048
+Maximum Ping Time : 187.195
+Order             : 6
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : vivienne.ns.cloudflare.com
+IP Address        : 172.64.34.50
+Reply IP Address  : 172.64.34.50
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 387.399
+Last Ping TTL     : 53
+Average Ping Time : 382.699
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 365.374
+Maximum Ping Time : 394.222
+Order             : 51
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : meadow.ns.cloudflare.com
+IP Address        : 172.64.34.51
+Reply IP Address  : 172.64.34.51
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 340.254
+Last Ping TTL     : 53
+Average Ping Time : 332.913
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 297.529
+Maximum Ping Time : 360.454
+Order             : 52
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sloan.ns.cloudflare.com
+IP Address        : 172.64.34.52
+Reply IP Address  : 172.64.34.52
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 307.921
+Last Ping TTL     : 53
+Average Ping Time : 333.693
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 307.921
+Maximum Ping Time : 355.958
+Order             : 53
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : katja.ns.cloudflare.com
+IP Address        : 172.64.34.53
+Reply IP Address  : 172.64.34.53
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 189.404
+Last Ping TTL     : 53
+Average Ping Time : 189.618
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 189.169
+Maximum Ping Time : 190.027
+Order             : 54
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : elisa.ns.cloudflare.com
+IP Address        : 172.64.34.54
+Reply IP Address  : 172.64.34.54
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.247
+Last Ping TTL     : 53
+Average Ping Time : 172.827
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.247
+Maximum Ping Time : 175.252
+Order             : 55
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : aliza.ns.cloudflare.com
+IP Address        : 172.64.34.55
+Reply IP Address  : 172.64.34.55
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 177.950
+Last Ping TTL     : 53
+Average Ping Time : 178.562
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 176.968
+Maximum Ping Time : 181.693
+Order             : 56
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : monika.ns.cloudflare.com
+IP Address        : 172.64.34.56
+Reply IP Address  : 172.64.34.56
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 196.915
+Last Ping TTL     : 53
+Average Ping Time : 219.904
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 196.915
+Maximum Ping Time : 234.319
+Order             : 57
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : rosalie.ns.cloudflare.com
+IP Address        : 172.64.34.57
+Reply IP Address  : 172.64.34.57
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.223
+Last Ping TTL     : 53
+Average Ping Time : 174.978
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.223
+Maximum Ping Time : 179.306
+Order             : 58
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : harleigh.ns.cloudflare.com
+IP Address        : 172.64.34.58
+Reply IP Address  : 172.64.34.58
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 190.074
+Last Ping TTL     : 53
+Average Ping Time : 189.199
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 188.466
+Maximum Ping Time : 190.074
+Order             : 59
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : rosalyn.ns.cloudflare.com
+IP Address        : 172.64.34.59
+Reply IP Address  : 172.64.34.59
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 318.622
+Last Ping TTL     : 53
+Average Ping Time : 347.370
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 318.622
+Maximum Ping Time : 370.447
+Order             : 60
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : evangeline.ns.cloudflare.com
+IP Address        : 172.64.34.6
+Reply IP Address  : 172.64.34.6
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 186.869
+Last Ping TTL     : 53
+Average Ping Time : 209.066
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 186.869
+Maximum Ping Time : 220.654
+Order             : 7
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : tiffany.ns.cloudflare.com
+IP Address        : 172.64.34.60
+Reply IP Address  : 172.64.34.60
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 168.757
+Last Ping TTL     : 53
+Average Ping Time : 172.397
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 168.440
+Maximum Ping Time : 180.164
+Order             : 61
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : arushi.ns.cloudflare.com
+IP Address        : 172.64.34.61
+Reply IP Address  : 172.64.34.61
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.662
+Last Ping TTL     : 53
+Average Ping Time : 175.956
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 172.662
+Maximum Ping Time : 181.938
+Order             : 62
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : imani.ns.cloudflare.com
+IP Address        : 172.64.34.62
+Reply IP Address  : 172.64.34.62
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 169.999
+Last Ping TTL     : 53
+Average Ping Time : 172.884
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 169.999
+Maximum Ping Time : 179.082
+Order             : 63
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : shubhi.ns.cloudflare.com
+IP Address        : 172.64.34.63
+Reply IP Address  : 172.64.34.63
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 358.654
+Last Ping TTL     : 53
+Average Ping Time : 349.247
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 316.164
+Maximum Ping Time : 378.645
+Order             : 64
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : josephine.ns.cloudflare.com
+IP Address        : 172.64.34.64
+Reply IP Address  : 172.64.34.64
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 382.036
+Last Ping TTL     : 53
+Average Ping Time : 388.654
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 380.955
+Maximum Ping Time : 409.154
+Order             : 65
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : brynne.ns.cloudflare.com
+IP Address        : 172.64.34.65
+Reply IP Address  : 172.64.34.65
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 306.604
+Last Ping TTL     : 53
+Average Ping Time : 346.505
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 306.604
+Maximum Ping Time : 399.693
+Order             : 66
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : audrey.ns.cloudflare.com
+IP Address        : 172.64.34.66
+Reply IP Address  : 172.64.34.66
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 390.569
+Last Ping TTL     : 53
+Average Ping Time : 385.702
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 368.313
+Maximum Ping Time : 395.846
+Order             : 67
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : hadlee.ns.cloudflare.com
+IP Address        : 172.64.34.67
+Reply IP Address  : 172.64.34.67
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 256.272
+Last Ping TTL     : 53
+Average Ping Time : 267.133
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 233.551
+Maximum Ping Time : 309.902
+Order             : 68
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : addyson.ns.cloudflare.com
+IP Address        : 172.64.34.68
+Reply IP Address  : 172.64.34.68
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 302.089
+Last Ping TTL     : 53
+Average Ping Time : 348.127
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 302.089
+Maximum Ping Time : 374.788
+Order             : 69
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : sasha.ns.cloudflare.com
+IP Address        : 172.64.34.69
+Reply IP Address  : 172.64.34.69
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 175.527
+Last Ping TTL     : 53
+Average Ping Time : 178.144
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 175.527
+Maximum Ping Time : 181.605
+Order             : 70
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : celeste.ns.cloudflare.com
+IP Address        : 172.64.34.7
+Reply IP Address  : 172.64.34.7
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 185.152
+Last Ping TTL     : 53
+Average Ping Time : 212.804
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 185.152
+Maximum Ping Time : 233.006
+Order             : 8
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : norah.ns.cloudflare.com
+IP Address        : 172.64.34.70
+Reply IP Address  : 172.64.34.70
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 207.936
+Last Ping TTL     : 53
+Average Ping Time : 204.014
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 199.465
+Maximum Ping Time : 208.484
+Order             : 71
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : ollie.ns.cloudflare.com
+IP Address        : 172.64.34.71
+Reply IP Address  : 172.64.34.71
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.283
+Last Ping TTL     : 53
+Average Ping Time : 172.808
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 172.241
+Maximum Ping Time : 174.410
+Order             : 72
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : zariyah.ns.cloudflare.com
+IP Address        : 172.64.34.72
+Reply IP Address  : 172.64.34.72
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 178.265
+Last Ping TTL     : 53
+Average Ping Time : 184.961
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 178.265
+Maximum Ping Time : 187.660
+Order             : 73
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : mckinley.ns.cloudflare.com
+IP Address        : 172.64.34.73
+Reply IP Address  : 172.64.34.73
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 343.947
+Last Ping TTL     : 53
+Average Ping Time : 264.911
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 175.597
+Maximum Ping Time : 363.647
+Order             : 74
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : noor.ns.cloudflare.com
+IP Address        : 172.64.34.74
+Reply IP Address  : 172.64.34.74
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 189.707
+Last Ping TTL     : 53
+Average Ping Time : 217.289
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 189.707
+Maximum Ping Time : 236.927
+Order             : 75
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : kinsley.ns.cloudflare.com
+IP Address        : 172.64.34.75
+Reply IP Address  : 172.64.34.75
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 181.821
+Last Ping TTL     : 53
+Average Ping Time : 181.879
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 181.553
+Maximum Ping Time : 182.438
+Order             : 76
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : destiny.ns.cloudflare.com
+IP Address        : 172.64.34.76
+Reply IP Address  : 172.64.34.76
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 187.437
+Last Ping TTL     : 53
+Average Ping Time : 210.181
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 187.437
+Maximum Ping Time : 222.906
+Order             : 77
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : rosemary.ns.cloudflare.com
+IP Address        : 172.64.34.77
+Reply IP Address  : 172.64.34.77
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 170.247
+Last Ping TTL     : 53
+Average Ping Time : 169.078
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 167.212
+Maximum Ping Time : 170.247
+Order             : 78
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : macy.ns.cloudflare.com
+IP Address        : 172.64.34.78
+Reply IP Address  : 172.64.34.78
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 181.819
+Last Ping TTL     : 53
+Average Ping Time : 184.723
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 181.819
+Maximum Ping Time : 187.239
+Order             : 79
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : irena.ns.cloudflare.com
+IP Address        : 172.64.34.79
+Reply IP Address  : 172.64.34.79
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 179.306
+Last Ping TTL     : 53
+Average Ping Time : 185.228
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 175.983
+Maximum Ping Time : 196.807
+Order             : 80
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : magdalena.ns.cloudflare.com
+IP Address        : 172.64.34.8
+Reply IP Address  : 172.64.34.8
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 382.145
+Last Ping TTL     : 53
+Average Ping Time : 391.842
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 382.145
+Maximum Ping Time : 406.778
+Order             : 9
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : saanvi.ns.cloudflare.com
+IP Address        : 172.64.34.80
+Reply IP Address  : 172.64.34.80
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 175.559
+Last Ping TTL     : 53
+Average Ping Time : 177.943
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 175.339
+Maximum Ping Time : 184.776
+Order             : 81
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : aleena.ns.cloudflare.com
+IP Address        : 172.64.34.81
+Reply IP Address  : 172.64.34.81
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.534
+Last Ping TTL     : 53
+Average Ping Time : 175.868
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 172.534
+Maximum Ping Time : 180.249
+Order             : 82
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : anita.ns.cloudflare.com
+IP Address        : 172.64.34.82
+Reply IP Address  : 172.64.34.82
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 392.062
+Last Ping TTL     : 53
+Average Ping Time : 380.753
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 332.419
+Maximum Ping Time : 400.239
+Order             : 83
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : mallory.ns.cloudflare.com
+IP Address        : 172.64.34.83
+Reply IP Address  : 172.64.34.83
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 380.145
+Last Ping TTL     : 53
+Average Ping Time : 388.979
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 380.145
+Maximum Ping Time : 401.481
+Order             : 84
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : nancy.ns.cloudflare.com
+IP Address        : 172.64.34.84
+Reply IP Address  : 172.64.34.84
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 171.967
+Last Ping TTL     : 53
+Average Ping Time : 172.458
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 171.967
+Maximum Ping Time : 173.063
+Order             : 85
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : kallie.ns.cloudflare.com
+IP Address        : 172.64.34.85
+Reply IP Address  : 172.64.34.85
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 308.264
+Last Ping TTL     : 53
+Average Ping Time : 355.426
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 308.264
+Maximum Ping Time : 384.369
+Order             : 86
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : carla.ns.cloudflare.com
+IP Address        : 172.64.34.86
+Reply IP Address  : 172.64.34.86
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 389.868
+Last Ping TTL     : 53
+Average Ping Time : 231.837
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 178.719
+Maximum Ping Time : 389.868
+Order             : 87
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : suzanne.ns.cloudflare.com
+IP Address        : 172.64.34.87
+Reply IP Address  : 172.64.34.87
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 301.413
+Last Ping TTL     : 53
+Average Ping Time : 327.840
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 301.413
+Maximum Ping Time : 348.211
+Order             : 88
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : coraline.ns.cloudflare.com
+IP Address        : 172.64.34.88
+Reply IP Address  : 172.64.34.88
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 343.475
+Last Ping TTL     : 53
+Average Ping Time : 334.746
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 300.816
+Maximum Ping Time : 360.864
+Order             : 89
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : maisie.ns.cloudflare.com
+IP Address        : 172.64.34.89
+Reply IP Address  : 172.64.34.89
+Succeed Count     : 3
+Failed Count      : 1
+Consecutive Failed Count: 1
+Max Consecutive Failed Count: 1
+Max Consecutive Failed Time: 2024/12/14 15:18:39
+% Failed          : 25.00%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 174.885
+Last Ping TTL     : 53
+Average Ping Time : 175.100
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 2024/12/14 15:18:39
+Minimum Ping Time : 174.781
+Maximum Ping Time : 175.633
+Order             : 90
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : summer.ns.cloudflare.com
+IP Address        : 172.64.34.9
+Reply IP Address  : 172.64.34.9
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 170.250
+Last Ping TTL     : 53
+Average Ping Time : 171.168
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 168.147
+Maximum Ping Time : 175.585
+Order             : 10
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : oaklyn.ns.cloudflare.com
+IP Address        : 172.64.34.90
+Reply IP Address  : 172.64.34.90
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 172.761
+Last Ping TTL     : 53
+Average Ping Time : 177.098
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 172.761
+Maximum Ping Time : 184.469
+Order             : 91
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : kelly.ns.cloudflare.com
+IP Address        : 172.64.34.91
+Reply IP Address  : 172.64.34.91
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 190.354
+Last Ping TTL     : 53
+Average Ping Time : 217.307
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 190.354
+Maximum Ping Time : 235.693
+Order             : 92
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : kayleigh.ns.cloudflare.com
+IP Address        : 172.64.34.92
+Reply IP Address  : 172.64.34.92
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 305.909
+Last Ping TTL     : 53
+Average Ping Time : 345.489
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 305.909
+Maximum Ping Time : 399.195
+Order             : 93
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : kenia.ns.cloudflare.com
+IP Address        : 172.64.34.93
+Reply IP Address  : 172.64.34.93
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 187.048
+Last Ping TTL     : 53
+Average Ping Time : 187.405
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 186.677
+Maximum Ping Time : 188.520
+Order             : 94
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : amalia.ns.cloudflare.com
+IP Address        : 172.64.34.94
+Reply IP Address  : 172.64.34.94
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 315.649
+Last Ping TTL     : 53
+Average Ping Time : 362.809
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 315.649
+Maximum Ping Time : 389.675
+Order             : 95
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : aryanna.ns.cloudflare.com
+IP Address        : 172.64.34.95
+Reply IP Address  : 172.64.34.95
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 178.875
+Last Ping TTL     : 53
+Average Ping Time : 180.217
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 178.524
+Maximum Ping Time : 183.254
+Order             : 96
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : blakely.ns.cloudflare.com
+IP Address        : 172.64.34.96
+Reply IP Address  : 172.64.34.96
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 184.274
+Last Ping TTL     : 53
+Average Ping Time : 208.167
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 184.274
+Maximum Ping Time : 223.195
+Order             : 97
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : braelyn.ns.cloudflare.com
+IP Address        : 172.64.34.97
+Reply IP Address  : 172.64.34.97
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 416.848
+Last Ping TTL     : 53
+Average Ping Time : 410.475
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 370.787
+Maximum Ping Time : 439.340
+Order             : 98
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : celine.ns.cloudflare.com
+IP Address        : 172.64.34.98
+Reply IP Address  : 172.64.34.98
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 371.094
+Last Ping TTL     : 53
+Average Ping Time : 380.749
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 371.094
+Maximum Ping Time : 394.619
+Order             : 99
+Disabled          : No
+==================================================
+
+==================================================
+Host Name         : delilah.ns.cloudflare.com
+IP Address        : 172.64.34.99
+Reply IP Address  : 172.64.34.99
+Succeed Count     : 4
+Failed Count      : 0
+Consecutive Failed Count: 
+Max Consecutive Failed Count: 
+Max Consecutive Failed Time: 
+% Failed          : 0%
+Total Sent Pings  : 4
+Last Ping Status  : Succeeded
+Last Ping Time    : 367.406
+Last Ping TTL     : 53
+Average Ping Time : 351.437
+Description       : 
+Last Succeed On   : 2024/12/14 15:19:10
+Last Failed On    : 
+Minimum Ping Time : 315.910
+Maximum Ping Time : 374.198
+Order             : 100
+Disabled          : No
+==================================================
+
 
