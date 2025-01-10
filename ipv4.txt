@@ -1,62 +1,15 @@
-198.62.62.156:443#US
-162.159.129.11:2053#US
-162.159.129.67:8443#US
-104.16.134.27:2083#US
-104.25.254.4:2087#US
-104.17.128.1:2096#US
-ashton.ns.cloudflare.com
-abdullah.ns.cloudflare.com
-bowen.ns.cloudflare.com
-benedict.ns.cloudflare.com
-braden.ns.cloudflare.com
-cris.ns.cloudflare.com
-craig.ns.cloudflare.com
-decker.ns.cloudflare.com
-damien.ns.cloudflare.com
-dylan.ns.cloudflare.com
-103.160.204.59:443#HK
-198.62.62.4:443#HK
-75.2.32.4:443#HK
-104.17.142.12:443#HK
-104.17.68.85:443#HK
-104.17.71.31:443#HK
-ï»¿www.boba88slot.com
-www.ipaddress.my
-whatismyipaddress.com
-log.bpminecraft.com
-icook.hk
-www.gov.ua
-www.sean-now.com
-www.baipiao.eu.org
-www.ipget.net
-edtunnel-dgp.pages.dev
-www.iakeys.com
-www.4chan.org
-www.gov.se
-gur.gov.ua
-www.wto.org
-www.d-555.com
-www.visa.com.hk
-www.zsu.gov.ua
-icook.tw
-time.is
-singapore.com
-www.whatismyip.com
-japan.com
-iplocation.io
-russia.com
-www.pcmag.com
-www.udacity.com
-fbi.gov
-www.shopify.com
-time.cloudflare.com
-www.csgo.com
-www.digitalocean.com
-www.who.int
-www.iplocation.net
-www.visa.com.sg
-3www.visa.co.jp
-www.udemy.com
-ip.sb
-malaysia.com
-download.yunzhongzhuan.com
+104.18.58.253,443,TRUE,SJC,North America,San Jose,
+104.19.11.89,443,TRUE,SJC,North America,San Jose,
+104.18.62.253,443,TRUE,SJC,North America,San Jose,
+104.19.89.75,443,TRUE,SJC,North America,San Jose,
+104.19.62.224,443,TRUE,SJC,North America,San Jose,
+104.21.11.89,443,TRUE,LHR,Europe,Â×¶Ø,,
+104.21.217.93,443,TRUE,LHR,Europe,Â×¶Ø,,
+104.21.70.77,443,TRUE,LHR,Europe,Â×¶Ø,,
+104.21.98.177,443,TRUE,LHR,Europe,Â×¶Ø,,
+172.67.133.212,443,TRUE,LHR,Europe,Â×¶Ø,,
+104.22.29.208,443,TRUE,HKG,Asia Pacific,Hong Kong,,
+104.18.33.102,443,TRUE,HKG,Asia Pacific,Hong Kong,,
+172.67.32.237,443,TRUE,HKG,Asia Pacific,Hong Kong,,
+104.17.66.103,443,TRUE,HKG,Asia Pacific,Hong Kong,,
+104.17.71.58,443,TRUE,HKG,Asia Pacific,Hong Kong,,
