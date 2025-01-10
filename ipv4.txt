@@ -24,7 +24,7 @@ dylan.ns.cloudflare.com
 www.ipaddress.my
 whatismyipaddress.com
 log.bpminecraft.com
-icook.hk#HK
+icook.hk
 www.gov.ua
 www.sean-now.com
 www.baipiao.eu.org
@@ -36,9 +36,9 @@ www.gov.se
 gur.gov.ua
 www.wto.org
 www.d-555.com
-www.visa.com.hk#HK
+www.visa.com.hk
 www.zsu.gov.ua
-icook.tw#tw
+icook.tw
 time.is
 singapore.com
 www.whatismyip.com
