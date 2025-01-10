@@ -1,15 +1,15 @@
-104.18.58.253,443,TRUE,SJC,North America,San Jose,
-104.19.11.89,443,TRUE,SJC,North America,San Jose,
-104.18.62.253,443,TRUE,SJC,North America,San Jose,
-104.19.89.75,443,TRUE,SJC,North America,San Jose,
-104.19.62.224,443,TRUE,SJC,North America,San Jose,
-104.21.11.89,443,TRUE,LHR,Europe,Â×¶Ø,,
-104.21.217.93,443,TRUE,LHR,Europe,Â×¶Ø,,
-104.21.70.77,443,TRUE,LHR,Europe,Â×¶Ø,,
-104.21.98.177,443,TRUE,LHR,Europe,Â×¶Ø,,
-172.67.133.212,443,TRUE,LHR,Europe,Â×¶Ø,,
-104.22.29.208,443,TRUE,HKG,Asia Pacific,Hong Kong,,
-104.18.33.102,443,TRUE,HKG,Asia Pacific,Hong Kong,,
-172.67.32.237,443,TRUE,HKG,Asia Pacific,Hong Kong,,
-104.17.66.103,443,TRUE,HKG,Asia Pacific,Hong Kong,,
-104.17.71.58,443,TRUE,HKG,Asia Pacific,Hong Kong,,
+104.18.58.253:443#us
+104.19.11.89:443#us
+104.18.62.253:443#us
+104.19.89.75:443#us
+104.19.62.224:443#us
+104.21.11.89:443#Â×¶Ø
+104.21.217.93:443#Â×¶Ø
+104.21.70.77:443#Â×¶Ø
+104.21.98.177:443#Â×¶Ø
+172.67.133.212:443#Â×¶Ø
+104.22.29.208:443#hk
+104.18.33.102:443#hk
+172.67.32.237:443#hk
+104.17.66.103:443#hk
+104.17.71.58:443#hk
